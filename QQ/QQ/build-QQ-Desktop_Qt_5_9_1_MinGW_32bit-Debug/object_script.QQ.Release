@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\chat.o
+./release\myinclue.o
+./release\receivefile.o
+./release\sendfile.o
+./release\Login.o
+./release\qrc_res.o
+./release\moc_widget.o
+./release\moc_chat.o
+./release\moc_receivefile.o
+./release\moc_sendfile.o
+./release\moc_Login.o
+);

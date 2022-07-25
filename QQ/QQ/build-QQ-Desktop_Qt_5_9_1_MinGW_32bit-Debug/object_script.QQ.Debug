@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\chat.o
+./debug\myinclue.o
+./debug\receivefile.o
+./debug\sendfile.o
+./debug\Login.o
+./debug\qrc_res.o
+./debug\moc_widget.o
+./debug\moc_chat.o
+./debug\moc_receivefile.o
+./debug\moc_sendfile.o
+./debug\moc_Login.o
+);
